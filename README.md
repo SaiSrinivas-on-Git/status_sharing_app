@@ -1,6 +1,11 @@
 # Status Sharing System
 
 A **privacy-safe, real-time status sharing system** where one device owner shares their contextual availability with whitelisted viewers. Status is fetched on-demand from an Android device via Firebase Cloud Messaging, processed through a derivation engine, and displayed on a web dashboard.
+## Youtube Video links for app demo
+[https://youtu.be/1CQFcH_t2uw](https://youtu.be/1CQFcH_t2uw)
+https://youtu.be/Mr050URk0r0
+[https://youtube.com/shorts/yuIJ0koAmKE](https://youtube.com/shorts/yuIJ0koAmKE?feature=share)
+
 
 ## Architecture
 
